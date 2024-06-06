@@ -9,7 +9,8 @@ This repository contains code for responsive navbar in react with react-router f
 
 Images:
 
-![Full Width Image](https://github.com/WELCOME/React-responsive-navbar/blob/main/screenshot(37).png)
+![Screenshot](https://github.com/Dhanam2305/Navigation-Bar-Router/assets/167000726/5a57ea1d-6099-4724-900d-616adad10908)
+
 
 ![Responsive Navbar](https://github.com/WELCOME/React-responsive-navbar/blob/main/screenshot-localhost_3000-2020.12.08-17_21_58.png)     ![Responsive Navbar](https://github.com/codebucks27/React-responsive-navbar/blob/main/screenshot(38).png) 
 
